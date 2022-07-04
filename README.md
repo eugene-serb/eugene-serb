@@ -5,7 +5,6 @@
 💞️ I am ready to cooperate in any projects that can give me and you experience and profit.<br />
 🌍 My languages are Russian and English.<br />
 📫 Message me: *[Telegram](https://t.me/eugene_serb)*.<br />
-👀 Follow me: *[Twitter](https://twitter.com/eugene_serb)*.<br />
 
 <!---
 eugene-serb/eugene-serb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
