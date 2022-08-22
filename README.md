@@ -1,5 +1,9 @@
 <h1><img src="octocats/mona-whisper.gif" width="40" height="40"> Hi there!</h1> 
 
+👋 Hi, I’m *[@eugene-serb](https://github.com/eugene-serb)*, i'm a Software Engineer, and i live in Novorossiysk, Russia.<br />
+🤩 I’m interested in Computer Science. Learn more about me at my website: *[eugene-serb.github.io](https://eugene-serb.github.io/)*.<br />
+📫 Message me: *[Telegram](https://t.me/eugene_serb)*.<br />
+
 <h1><img src="octocats/octocat-squid.gif" width="40" height="40"> Technologies & Tools</h1>
 
 ![](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=ffffff&color=E44D26)
