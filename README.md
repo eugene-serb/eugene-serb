@@ -26,8 +26,8 @@
 <h1><img src="octocats/mona-loading.gif" width="40" height="40"> GitHub Stats</h1>
 
 <div align="center">
-  <img width="45%" height="200em" src="https://github-readme-stats.vercel.app/api?username=eugene-serb&count_private=true&theme=default&show_icons=true" />
-  <img width="45%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugene-serb&langs_count=4&layout=compact" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=eugene-serb&count_private=true&theme=default&show_icons=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugene-serb&langs_count=4&layout=compact" />
 </div>
 
 <!---
