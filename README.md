@@ -1,12 +1,9 @@
-👋 Hi, I’m *[@eugene-serb](https://github.com/eugene-serb)*, i'm a Software Engineer, and i live in Novorossiysk, Russia.<br />
-🤩 I’m interested in Computer Science. Learn more about me at my website: *[eugene-serb.github.io](https://eugene-serb.github.io/)*.<br />
-🧠 I’m use in work HTML, CSS, SASS, JavaScript, TypeScript, Vue, React, Node.js, Express, MongoDB and PostgreSQL.<br />
-🌱 Now I am studying and practicing these technologies.<br />
-💞️ I am ready to cooperate in any projects that can give me and you experience and profit.<br />
-🌍 My languages are Russian and English.<br />
-📫 Message me: *[Telegram](https://t.me/eugene_serb)*.<br />
-
 <!---
 eugene-serb/eugene-serb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<div align="center">
+  <img width="45%" height="200em" src="https://github-readme-stats.vercel.app/api?username=eugene-serb&count_private=true&theme=default&show_icons=true" />
+  <img width="45%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugene-serb&langs_count=4&layout=compact" />
+</div>
