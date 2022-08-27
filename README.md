@@ -1,6 +1,6 @@
 <h1><img src="octocats/mona-whisper.gif" width="40" height="40"> Hi there!</h1> 
 
-👋 Hi, I’m *[@eugene-serb](https://github.com/eugene-serb)*, i'm a Software Engineer, and i live in Novorossiysk, Russia.<br />
+👋 Hi, I’m *[@eugene-serb](https://github.com/eugene-serb)*, I'm 26 years old, i'm a Software Engineer, and i live in Novorossiysk, Russia.<br />
 🤩 Learn more about me at my website: *[eugene-serb.github.io](https://eugene-serb.github.io/)*.<br />
 📫 Message me: *[Telegram](https://t.me/eugene_serb)*.<br />
 
