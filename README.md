@@ -22,6 +22,7 @@
 ![](https://img.shields.io/badge/Webpack-informational?style=flat-square&logo=webpack&logoColor=62B1D8&color=2B3A42)
 ![](https://img.shields.io/badge/Babel-informational?style=flat-square&logo=babel&logoColor=323330&color=F5DA55)
 ![](https://img.shields.io/badge/ESLint-informational?style=flat-square&logo=eslint&logoColor=FFFFFF&color=8181F2)
+![](https://img.shields.io/badge/Jest-informational?style=flat-square&logo=jest&logoColor=FFFFFF&color=15C213)
 ![](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=FFFFFF&color=BC4420)
 ![](https://img.shields.io/badge/npm-informational?style=flat-square&logo=npm&logoColor=FFFFFF&color=CB0000)
 ![](https://img.shields.io/badge/Jira-informational?style=flat-square&logo=jira&logoColor=0052CC&color=F4F5F7)
