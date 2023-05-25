@@ -35,8 +35,8 @@
 ![](https://img.shields.io/badge/Figma-informational?style=flat-square&logo=figma&logoColor=FFFFFF&color=5551ff)
 ![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat-square&logo=visual-studio&logoColor=FFFFFF&color=8661C5)
 ![](https://img.shields.io/badge/Postman-informational?style=flat-square&logo=postman&logoColor=FFFFFF&color=FF6C37)
-![](https://img.shields.io/badge/Charles-informational?style=flat-square&logo=charles&logoColor=FFFFFF&color=BFDFEF)
-![](https://img.shields.io/badge/Devtools-informational?style=flat-square&logo=devtools&logoColor=FFFFFF&color=D2E3FC)
+![](https://img.shields.io/badge/☕-Charles-informational?style=flat-square&logo=charles&logoColor=FFFFFF&color=BFDFEF&labelColor=BFDFEF)
+![](https://img.shields.io/badge/📐-Devtools-informational?style=flat-square&logo=devtools&logoColor=FFFFFF&color=D2E3FC&labelColor=D2E3FC)
 
 <h1><img src="octocats/mona-loading.gif" width="40" height="40"> GitHub Stats</h1>
 
