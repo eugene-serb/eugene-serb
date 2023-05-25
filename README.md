@@ -30,6 +30,8 @@
 ![](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=FFFFFF&color=BC4420)
 ![](https://img.shields.io/badge/npm-informational?style=flat-square&logo=npm&logoColor=FFFFFF&color=CB0000)
 ![](https://img.shields.io/badge/Jira-informational?style=flat-square&logo=jira&logoColor=0052CC&color=F4F5F7)
+![](https://img.shields.io/badge/GitHub-informational?style=flat-square&logo=github&logoColor=FFFFFF&color=000000)
+![](https://img.shields.io/badge/GitHub%20Actions-informational?style=flat-square&logo=github&logoColor=FFFFFF&color=000000)
 ![](https://img.shields.io/badge/Figma-informational?style=flat-square&logo=figma&logoColor=FFFFFF&color=5551ff)
 ![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat-square&logo=visual-studio&logoColor=FFFFFF&color=8661C5)
 ![](https://img.shields.io/badge/Postman-informational?style=flat-square&logo=postman&logoColor=FFFFFF&color=FF6C37)
