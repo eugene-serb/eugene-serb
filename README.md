@@ -10,6 +10,7 @@
 ![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&logoColor=FFFFFF&color=25A1E1)
 ![](https://img.shields.io/badge/SASS-informational?style=flat-square&logo=sass&logoColor=FFFFFF&color=CF649A)
 ![](https://img.shields.io/badge/JSON-informational?style=flat-square&logo=json&logoColor=323330&color=FAF0E6)
+![](https://img.shields.io/badge/YAML-informational?style=flat-square&logo=yaml&logoColor=FFFFFF&color=FF0000)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&logoColor=323330&color=F0DB4F)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=FFFFFF&color=007ACC)
 ![](https://img.shields.io/badge/Vue.js-informational?style=flat-square&logo=vue.js&logoColor=FFFFFF&color=42B983)
