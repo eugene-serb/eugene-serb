@@ -28,6 +28,7 @@
 ![](https://img.shields.io/badge/ESLint-informational?style=flat-square&logo=eslint&logoColor=FFFFFF&color=8181F2)
 ![](https://img.shields.io/badge/Prettier-informational?style=flat-square&logo=prettier&logoColor=FFFFFF&color=1A2B34)
 ![](https://img.shields.io/badge/Jest-informational?style=flat-square&logo=jest&logoColor=FFFFFF&color=15C213)
+![](https://img.shields.io/badge/docker-informational?style=flat-square&logo=docker&logoColor=FFFFFF&color=0073EC)
 ![](https://img.shields.io/badge/npm-informational?style=flat-square&logo=npm&logoColor=FFFFFF&color=CB0000)
 ![](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=FFFFFF&color=BC4420)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat-square&logo=github&logoColor=FFFFFF&color=24292F)
