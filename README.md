@@ -1,6 +1,6 @@
 <h1><img src="octocats/mona-whisper.gif" width="40" height="40"> Hi there!</h1> 
 
-👋 Hi, I’m *[@eugene-serb](https://github.com/eugene-serb)*, I'm 26 years old, I'm a Frontend Developer, and I live in Novorossiysk, Russia.<br />
+👋 Hi there, I’m *[@eugene-serb](https://github.com/eugene-serb)*.<br />
 🤩 Learn more about me at my website: *[eugene-serb.github.io](https://eugene-serb.github.io/)*.<br />
 📫 Message me: *[Telegram](https://t.me/eugene_serb)*.<br />
 
@@ -29,12 +29,12 @@
 ![](https://img.shields.io/badge/Prettier-informational?style=flat-square&logo=prettier&logoColor=FFFFFF&color=1A2B34)
 ![](https://img.shields.io/badge/Jest-informational?style=flat-square&logo=jest&logoColor=FFFFFF&color=15C213)
 ![](https://img.shields.io/badge/📝-JSDoc-informational?style=flat-square&logo=jsdoc&logoColor=FFFFFF&color=006FBB&labelColor=006FBB)
-![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=FFFFFF&color=0073EC)
 ![](https://img.shields.io/badge/npm-informational?style=flat-square&logo=npm&logoColor=FFFFFF&color=CB0000)
 ![](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=FFFFFF&color=BC4420)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat-square&logo=github&logoColor=FFFFFF&color=24292F)
 ![](https://img.shields.io/badge/GitHub%20Actions-informational?style=flat-square&logo=github&logoColor=FFFFFF&color=24292F)
 ![](https://img.shields.io/badge/GitLab-informational?style=flat-square&logo=gitlab&logoColor=FFFFFF&color=FD7E14)
+![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=FFFFFF&color=0073EC)
 ![](https://img.shields.io/badge/Jira-informational?style=flat-square&logo=jira&logoColor=0052CC&color=F4F5F7)
 ![](https://img.shields.io/badge/Figma-informational?style=flat-square&logo=figma&logoColor=FFFFFF&color=5551ff)
 ![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat-square&logo=visual-studio&logoColor=FFFFFF&color=8661C5)
