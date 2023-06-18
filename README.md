@@ -26,6 +26,7 @@
 ![](https://img.shields.io/badge/Webpack-informational?style=flat-square&logo=webpack&logoColor=62B1D8&color=2B3A42)
 ![](https://img.shields.io/badge/Babel-informational?style=flat-square&logo=babel&logoColor=323330&color=F5DA55)
 ![](https://img.shields.io/badge/ESLint-informational?style=flat-square&logo=eslint&logoColor=FFFFFF&color=8181F2)
+![](https://img.shields.io/badge/Stylelint-informational?style=flat-square&logo=stylelint&logoColor=FFFFFF&color=1C1E21)
 ![](https://img.shields.io/badge/Prettier-informational?style=flat-square&logo=prettier&logoColor=FFFFFF&color=1A2B34)
 ![](https://img.shields.io/badge/Jest-informational?style=flat-square&logo=jest&logoColor=FFFFFF&color=15C213)
 ![](https://img.shields.io/badge/📝-JSDoc-informational?style=flat-square&logo=jsdoc&logoColor=FFFFFF&color=006FBB&labelColor=006FBB)
