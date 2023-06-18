@@ -37,6 +37,7 @@
 ![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=FFFFFF&color=0073EC)
 ![](https://img.shields.io/badge/Jira-informational?style=flat-square&logo=jira&logoColor=0052CC&color=F4F5F7)
 ![](https://img.shields.io/badge/Figma-informational?style=flat-square&logo=figma&logoColor=FFFFFF&color=5551ff)
+![](https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=visual-studio&logoColor=FFFFFF&color=0066B8)
 ![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat-square&logo=visual-studio&logoColor=FFFFFF&color=8661C5)
 ![](https://img.shields.io/badge/Postman-informational?style=flat-square&logo=postman&logoColor=FFFFFF&color=FF6C37)
 ![](https://img.shields.io/badge/☕-Charles-informational?style=flat-square&logo=charles&logoColor=FFFFFF&color=BFDFEF&labelColor=BFDFEF)
