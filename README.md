@@ -18,6 +18,8 @@
 ![](https://img.shields.io/badge/Vue%20Router-informational?style=flat-square&logo=vue.js&logoColor=FFFFFF&color=42B983)
 ![](https://img.shields.io/badge/Vuex-informational?style=flat-square&logo=vue.js&logoColor=FFFFFF&color=42B983)
 ![](https://img.shields.io/badge/🍍-Pinia-informational?style=flat-square&logo=pinia&logoColor=FFFFFF&color=42B983&labelColor=42B983)
+![](https://img.shields.io/badge/Vite-informational?style=flat-square&logo=vite&logoColor=FFFFFF&color=42B983)
+![](https://img.shields.io/badge/Vitest-informational?style=flat-square&logo=vitest&logoColor=FFFFFF&color=42B983)
 ![](https://img.shields.io/badge/React-informational?style=flat-square&logo=react&logoColor=FFFFFF&color=066D89)
 ![](https://img.shields.io/badge/Node.JS-informational?style=flat-square&logo=node.js&logoColor=FFFFFF&color=3C873A)
 ![](https://img.shields.io/badge/Express-informational?style=flat-square&logo=express&logoColor=3C3C3C&color=E0F5FF)
