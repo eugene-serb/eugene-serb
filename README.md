@@ -1,8 +1,8 @@
 <h1><img src="octocats/mona-whisper.gif" width="40" height="40"> Hi there!</h1> 
 
 👋 Hi there, I’m *[@eugene-serb](https://github.com/eugene-serb)*.<br />
-🤩 Learn more about me at my website: *[eugene-serb.github.io](https://eugene-serb.github.io/)*.<br />
-📫 Message me: *[Telegram](https://t.me/eugene_serb)*.<br />
+🤩 Find out more about me on my website: *[eugene-serb.github.io](https://eugene-serb.github.io/)*.<br />
+📫 Write me: *[Telegram](https://t.me/eugene_serb)*.<br />
 
 <h1><img src="octocats/octocat-squid.gif" width="40" height="40"> Technologies & Tools</h1>
 
@@ -44,7 +44,7 @@
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat-square&logo=visual-studio&logoColor=FFFFFF&color=0066B8)
 ![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat-square&logo=visual-studio&logoColor=FFFFFF&color=8661C5)
 ![](https://img.shields.io/badge/Postman-informational?style=flat-square&logo=postman&logoColor=FFFFFF&color=FF6C37)
-![](https://img.shields.io/badge/☕-Charles-informational?style=flat-square&logo=charles&logoColor=FFFFFF&color=BFDFEF&labelColor=BFDFEF)
+![](https://img.shields.io/badge/Charles-informational?style=flat-square&logo=charles&logoColor=FFFFFF&color=BFDFEF&labelColor=BFDFEF)
 ![](https://img.shields.io/badge/📐-Devtools-informational?style=flat-square&logo=devtools&logoColor=FFFFFF&color=D2E3FC&labelColor=D2E3FC)
 ![](https://img.shields.io/badge/📈-ApexCharts-informational?style=flat-square&logo=apexcharts&logoColor=FFFFFF&color=D2E3FC&labelColor=D2E3FC)
 ![](https://img.shields.io/badge/📉-Webix-informational?style=flat-square&logo=webix&logoColor=FFFFFF&color=D2E3FC&labelColor=D2E3FC)
