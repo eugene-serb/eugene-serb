@@ -31,6 +31,7 @@
 ![](https://img.shields.io/badge/Stylelint-informational?style=flat-square&logo=stylelint&logoColor=FFFFFF&color=1C1E21)
 ![](https://img.shields.io/badge/Prettier-informational?style=flat-square&logo=prettier&logoColor=FFFFFF&color=1A2B34)
 ![](https://img.shields.io/badge/Jest-informational?style=flat-square&logo=jest&logoColor=FFFFFF&color=15C213)
+![](https://img.shields.io/badge/Storybook-informational?style=flat-square&logo=storybook&logoColor=FFFFFF&color=006FBB&labelColor=006FBB)
 ![](https://img.shields.io/badge/📝-JSDoc-informational?style=flat-square&logo=jsdoc&logoColor=FFFFFF&color=006FBB&labelColor=006FBB)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=FFFFFF&color=684B96)
 ![](https://img.shields.io/badge/npm-informational?style=flat-square&logo=npm&logoColor=FFFFFF&color=CB0000)
