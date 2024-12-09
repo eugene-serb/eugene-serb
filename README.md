@@ -38,6 +38,7 @@
 ![](https://img.shields.io/badge/npm-informational?style=flat-square&logo=npm&logoColor=FFFFFF&color=CB0000)
 ![](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=FFFFFF&color=BC4420)
 ![](https://img.shields.io/badge/GitLab-informational?style=flat-square&logo=gitlab&logoColor=FFFFFF&color=FD7E14)
+![](https://img.shields.io/badge/GitLab%20CI-informational?style=flat-square&logo=gitlab&logoColor=FFFFFF&color=FD7E14)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat-square&logo=github&logoColor=FFFFFF&color=24292F)
 ![](https://img.shields.io/badge/GitHub%20Actions-informational?style=flat-square&logo=github&logoColor=FFFFFF&color=24292F)
 ![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=FFFFFF&color=0073EC)
